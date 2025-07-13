@@ -10,9 +10,9 @@ Authors of the material:
 Please make sure you do the following steps before the first hands-on session:
 
 0. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html. You can either use the standalone installer or install via `conda`. This will also automatically install Python and other necessary packages to your computer.
-1. To check your installation, please look at the (very short!) notebook [Check your installation](installation_check/0-Installation_check.ipynb). See below if you need a reminder how to start it.
+1. To check your installation, please look at the (very short!) Jupyter notebook [Check your installation](installation_check/0-Installation_check.ipynb). See below if you need an exaplanation or a reminder how to start the notebook.
 2. Download the data. You can do this with a notebook in the same folder: [Download data](installation_check/1-Download_data.ipynb).
-3. Before the workshop, the notebooks for the workshop will be added. Please also download these.
+3. Before the workshop, extra notebooks for the workshop will be added. Please also download these.
 
 ### Start a Jupyter notebook
 
